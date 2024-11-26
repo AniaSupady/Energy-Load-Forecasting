@@ -1,4 +1,4 @@
-# Energy-Load-Forecasting
+# Energy Load Forecasting, by Ania Supady
 Fourier series analysis and Fourier transform, Wavelet function.
 
 ---
